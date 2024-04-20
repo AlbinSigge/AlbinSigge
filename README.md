@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Albin
+
+I'm currently studying IT at KTH, and will sometimes post projects I'm working on here. 
 
 <!--
 **AlbinSigge/AlbinSigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
